@@ -2,7 +2,7 @@
 
 Dear Haroon Mehmood,
 
-I hope this message finds you well. I am writing to sincerely apologize for the late submission of my assignment, which was due today. I understand the importance of adhering to deadlines, and I take full responsibility for my delay in submitting the assignment.
+I hope this message finds you well. I am writing to sincerely apologize for the late submission of my assignment, which was due today (I only submitted it 1 hour late, you can check my commit time). I understand the importance of adhering to deadlines, and I take full responsibility for my delay in submitting the assignment.
 
 The primary reason for my late submission is that I run a software company, and over the past few days, I have been inundated with **urgent tasks and responsibilities** related to my company's operations. These unexpected demands on my time left me with insufficient opportunity to complete the assignment within the stipulated timeframe.
 
